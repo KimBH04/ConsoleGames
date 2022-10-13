@@ -25,10 +25,15 @@ namespace Ruld
 
             try
             {
-                path = Path.GetFullPath(@$"..\maps\{mapsname}.txt");
+                path = Path.GetFullPath(@$"..\Ruld_data\bin\Debug\netcoreapp3.1\maps\{mapsname}.txt");
                 map = File.ReadAllLines(path);
             }
             catch (FileNotFoundException)
+            {
+                Console.WriteLine($"Can't find the \'{mapsname}\'");
+                goto AskAgain;
+            }
+            catch (DirectoryNotFoundException)
             {
                 Console.WriteLine($"Can't find the \'{mapsname}\'");
                 goto AskAgain;
