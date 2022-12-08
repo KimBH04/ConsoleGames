@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld_data\\Ruld.csproj",
+      "projectUniqueName": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld\\Ruld_data\\Ruld.csproj",
       "projectName": "Ruld",
-      "projectPath": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld_data\\Ruld.csproj",
+      "projectPath": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld\\Ruld_data\\Ruld.csproj",
       "packagesPath": "C:\\Users\\sejong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld_data\\obj\\",
+      "outputPath": "C:\\Users\\sejong\\Documents\\GitHub\\ConsoleGames\\Ruld\\Ruld\\Ruld_data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sejong\\AppData\\Roaming\\NuGet\\NuGet.Config",

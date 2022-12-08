@@ -1,1 +1,2 @@
-start "" "..\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.exe
+cd Ruld_data\bin\Debug\netcoreapp3.1
+start Ruld.exe

@@ -26,3 +26,17 @@ C:\Users\sejong\Desktop\21\C\Ruld\obj\Debug\netcoreapp3.1\Ruld.csproj.CoreCompil
 C:\Users\sejong\Desktop\21\C\Ruld\obj\Debug\netcoreapp3.1\Ruld.dll
 C:\Users\sejong\Desktop\21\C\Ruld\obj\Debug\netcoreapp3.1\Ruld.pdb
 C:\Users\sejong\Desktop\21\C\Ruld\obj\Debug\netcoreapp3.1\Ruld.genruntimeconfig.cache
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.exe
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.deps.json
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.runtimeconfig.json
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.runtimeconfig.dev.json
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.dll
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\bin\Debug\netcoreapp3.1\Ruld.pdb
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.csproj.AssemblyReference.cache
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.AssemblyInfoInputs.cache
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.AssemblyInfo.cs
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.csproj.CoreCompileInputs.cache
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.dll
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.pdb
+C:\Users\sejong\Documents\GitHub\ConsoleGames\Ruld\Ruld\Ruld_data\obj\Debug\netcoreapp3.1\Ruld.genruntimeconfig.cache

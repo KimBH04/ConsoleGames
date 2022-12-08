@@ -25,7 +25,7 @@ namespace Ruld
 
             try
             {
-                path = Path.GetFullPath(@$"..\Ruld_data\bin\Debug\netcoreapp3.1\maps\{mapsname}.txt");
+                path = Path.GetFullPath(@$"..\maps\{mapsname}.txt");
                 map = File.ReadAllLines(path);
             }
             catch (FileNotFoundException)
@@ -104,6 +104,7 @@ namespace Ruld
 
             while (!isWin)
             {
+                var ssw = new StringWriter();
                 var move = Console.Read();
 
                 switch (move)
@@ -189,28 +190,30 @@ namespace Ruld
                         switch (Blocks[i, j])
                         {
                             case 'w':
-                                Console.Write('■');
+                                ssw.Write('■');
                                 break;
 
                             case 'a':
-                                Console.Write('ㅤ');
+                                ssw.Write('ㅤ');
                                 break;
 
                             case 'p':
-                                Console.Write('●');
+                                ssw.Write('●');
                                 break;
 
                             case 's':
-                                Console.Write('★');
+                                ssw.Write('★');
                                 break;
 
                             default:
-                                Console.Write('ㅤ');
+                                ssw.Write('ㅤ');
                                 break;
                         }
                     }
-                    Console.WriteLine();
+                    ssw.WriteLine();
                 }
+
+                Console.WriteLine(ssw);
             }
 
             Console.WriteLine("You Win!\n");
